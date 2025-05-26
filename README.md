@@ -8,7 +8,7 @@ Hello, My name is **Arshad Faiyaz **, this is my implementation of **Task-1*****
 
 ******3.Found my IP range using ifconfig command which gave me my instance IP & netmask******
 
-******4.Used command **nmap -sS -A -oN portscan 192.168.x.x/24 **to perform a TCP SYN scan**********
+******4.Used command **nmap -sS -A -oN portsfile 192.168.x.x/24 **to perform a TCP SYN scan**********
 
 ******5.Scanned all hosts within the IP range******
 
